@@ -1,0 +1,3 @@
+Player name:M level:1 score:0
+Player name:Milkon level:3 score:20
+Player name:John level:3 score:15
